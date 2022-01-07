@@ -1,6 +1,6 @@
 <h1> Formulário Resilia </h1>
 
-<p> O formulário Resilia foi o projeto da primeira semana de aula. Embora tivéssemos liberdade para criação, me desafiei, com apenas os conhecimentos de primeira semana, recriar o formulário original.</p>
+<p> O formulário Resilia foi o projeto da primeira semana de aula. Embora tivéssemos liberdade para criação, me desafiei, com apenas os conhecimentos de primeira semana, a recriar o formulário original.</p>
 
 <h3>Tecnologias</h3>
 

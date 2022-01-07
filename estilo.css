@@ -1,0 +1,107 @@
+body {
+    font-family: 'Archivo', sans-serif; font-size: 20px;
+}
+
+.primeira {
+    box-sizing: border-box;
+    color: #0B0B0B;
+    width: 400px;
+    height: 150px;
+    margin-left: 47px
+
+     
+}
+
+#sublinhado {
+    text-decoration-color: #ffd000;
+}
+
+.segunda {
+    width: 580px;
+    height: 100px;
+    margin: 20px 0px 20px 50px;
+}
+
+#logo {
+    padding: 50px 150px 50px 50px;
+    
+}
+.logos {
+    display: inline;
+    float: right;
+    margin-top: -20px;
+    margin-right: 10px;
+}
+
+#div {
+    margin-right: 80px;
+    margin-top: -40px;
+}
+
+#brush {
+     float: right;
+     margin-top: -100px;
+     margin-right: -200px;
+     position: relative;
+     
+     
+}
+
+.formulario {
+      box-sizing: border-box;
+      border: 2px solid transparent;
+      border-top-left-radius: 32px;
+      border-top-right-radius: 32px;
+      border-bottom-left-radius: 32px;
+      border-bottom-right-radius: 32px;
+      height: 600px;
+      width: 506.656px;
+      padding: 48px 40px 20px 40px;
+      box-shadow: 0px 0px 40px -4px;
+      background-color: rgba(0, 0, 0, 0.048);
+      float: right;
+      margin-right: 200px;
+      margin-top: -520px;
+      font-size: 15px;
+      position: absolute;
+      margin-left: 1100px;
+}
+
+
+p{
+    color: #494949;
+    font-size: 15px;
+}
+
+.input{
+    background-color: #F3F3F3;
+    font-size: 15px;
+    color: #0B0B0B;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 10px 100px;
+   
+}
+
+.input:hover {
+    color: #ffd000;
+}
+
+.logos:hover {
+    color: #ffd000;
+}
+
+#transparente {
+    border: solid transparent;
+    margin-left: 120px;
+}
+#politica{
+    color:#007BCE;
+}
+#vamosnessa {
+    color: #0b0b0b;
+    border-radius: 8px;
+    background-color: #FFD000;
+    margin: 30px 8px 16px 8px;
+    padding: 15px 70px;
+}
